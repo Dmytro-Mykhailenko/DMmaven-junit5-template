@@ -1,29 +1,29 @@
 Check-list for Calculator
 ---
 ---
-Метод addition()
+Method addition()
 ---
 | №  | Check name                    | Status |
 |----|-------------------------------|--------|
-| 1  | Сложение позитивных чисел     | Passed |
-| 2  | Сложение негативных чисел     | Passed |
-| 3  | Сложение с нулем в позиции 1  | Passed |
-| 4  | Сложение с нулем в позиции 2  | Passed |
+| 1  | Addition of positive numbers     | Passed |
+| 2  | Addition of negative numbers     | Passed |
+| 3  | Addition with zero in position 1  | Passed |
+| 4  | Addition with zero in position 2  | Passed |
 ---
-Метод subtraction()
----
-| №  | Check name                    | Status |
-|----|-------------------------------|--------|
-| 5  | Вычитание позитивных чисел    | Passed |
-| 6  | Вычитание негативных чисел    | Passed |
-| 7  | Вычитание нуля                | Passed |
-| 8  | Вычитание из нуля             | Passed |
----
-Метод isNum1Bigger()
+Method subtraction()
 ---
 | №  | Check name                    | Status |
 |----|-------------------------------|--------|
-| 9  | Сравнение если число 1 больше | Passed |
-| 10 | Сравнение если число 1 меньше | Passed |
-| 11 | Сравнение равных чисел        | Passed |
+| 5  | Subtracting positive numbers    | Passed |
+| 6  | Subtracting negative Numbers    | Passed |
+| 7  | Subtracting zero                | Passed |
+| 8  | Subtraction from zero             | Passed |
+---
+Method isNum1Bigger()
+---
+| №  | Check name                    | Status |
+|----|-------------------------------|--------|
+| 9  | Comparison if number 1 is bigger | Passed |
+| 10 | Comparison if number 1 is smaller | Passed |
+| 11 | Comparison of equal numbers        | Passed |
 ---
